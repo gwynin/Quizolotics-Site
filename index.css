@@ -70,7 +70,7 @@ p {
 * {box-sizing:border-box}
 
 .slideback {
-  max-width: 600px;
+  max-width: 500px;
   max-height: 700px;
   padding: 1px;
   position: relative;
