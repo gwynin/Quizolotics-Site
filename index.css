@@ -70,8 +70,8 @@ p {
 * {box-sizing:border-box}
 
 .slideback {
-  max-width: 500px;
-  max-height: 600px;
+  max-width: 600px;
+  max-height: 700px;
   padding: 1px;
   position: relative;
   margin: auto;
@@ -96,7 +96,7 @@ p {
   top: 50%;
   width: auto;
   margin-top: -22px;
-  padding: 16px;
+  padding: 14px;
   color: white;
   font-weight: bold;
   font-size: 18px;
